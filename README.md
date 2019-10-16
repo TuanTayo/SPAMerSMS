@@ -1,2 +1,0 @@
-# TuanTayo
-CyberTayo
