@@ -1,4 +1,4 @@
-# SpamSms
+# SPAMerSMS
 Spam sms (UPDATE)
 
 # How To Use
