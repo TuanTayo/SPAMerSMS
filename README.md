@@ -1,5 +1,5 @@
 # SPAMerSMS
-Spam sms (UPDATE)
+(UPDATE OKT 2019)
 
 # How To Use
 $ pkg update && pkg upgrade<br>
