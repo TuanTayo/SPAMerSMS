@@ -7,5 +7,5 @@ $ pkg install python<br>
 $ pkg install git<br>
 $ git clone https://github.com/TuanTayo/SPAMerSMS<br>
 $ pip install requests mechanize bs4<br>
-$ cd SpamSms<br>
+$ cd SPAMerSMS<br>
 $ python main.py
